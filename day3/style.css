@@ -1,0 +1,16 @@
+body {
+  /* 바디태그의 모든 것들 */
+  margin: 0; /* 여백이 0이다 */
+}
+
+a {
+  /* a태그의 모든것들 */
+  text-decoration: none;
+  color: white;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(87, 255, 137);
+}
